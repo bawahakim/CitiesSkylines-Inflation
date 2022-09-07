@@ -1,0 +1,15 @@
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\Inflation.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\Inflation.pdb
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\Assembly-CSharp.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\ColossalManaged.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\ICities.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\UnityEngine.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\UnityEngine.UI.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\PopsApiWrapper.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\obj\Debug\Inflation.csprojAssemblyReference.cache
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\obj\Debug\Inflation.csproj.CoreCompileInputs.cache
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\obj\Debug\Inflation.csproj.CopyComplete
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\obj\Debug\Inflation.dll
+C:\Users\Hakim\RiderProjects\Inflation\Inflation\obj\Debug\Inflation.pdb
